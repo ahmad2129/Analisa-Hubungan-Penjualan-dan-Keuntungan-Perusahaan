@@ -73,7 +73,7 @@ Analisis eksplorasi dilakukan menggunakan:
 ## 📊 Presentasi Project
 Untuk melihat penjelasan lengkap dari project ini, silakan lihat slide presentasi berikut:
 
-🔗 [Link PPT](#) <!-- ganti dengan link presentasi Anda -->
+🔗 [Slide Presentasi](https://github.com/ahmad2129/Analisa-Hubungan-Penjualan-dan-Keuntungan-Perusahaan/blob/main/report/Presentasi%20Mini%20Project%20Python%202%20Ahmad%20Malik%20Ibrahim.pdf)
 
 ## 🛠 Tools yang Digunakan
 - **Python** (Data Exploration, Data Cleaning, Feature Engineering, dan EDA)
